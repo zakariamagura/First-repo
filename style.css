@@ -1,0 +1,25 @@
+body {
+   background-color: pink;
+   color: gray;
+}
+img {
+    width: 200px;
+    height: 100;
+    float: right;
+    }
+p{
+    margin-top:100px;
+    color: gray;
+}
+li {
+    margin-top: 20px;
+    color: gray;
+}
+button {
+    padding-right: 100px;
+    background-color: #00ff58;
+    text-align:center;
+}
+hr{
+    margin-top:40px;
+}
